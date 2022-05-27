@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: To learn special variables
 #Version:1.0
-#Website: https://arkit.co.in
-#Created Date: Sun May 6 15:23:12 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 echo "'$*' output is $*"
 echo "'$#' output is $#"

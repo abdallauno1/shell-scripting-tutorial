@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: eval command Evaluating twice
 #Version:1.0
-#Created Date: Wed Jun 13 22:09:59 IST 2018
+#Created Date: May 26 13:17:19 EST 2022
 #Modified Date:
-#WebSite: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 
 echo -e "enter the a value: \c"

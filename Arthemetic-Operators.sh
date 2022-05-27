@@ -1,9 +1,10 @@
 #!/bin/bash
 #Purpose: Arthemetic Operators
 #Version:1.0
-#Created Date: Wed May 9 21:41:53 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 
 echo -e "Please enter some value: \c"

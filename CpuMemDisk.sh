@@ -2,10 +2,10 @@
 ## Collect Multiple Servers CPU, MEM and DISK Utilization and store in single file
 # Purpose: To Collect Multiple Servers CPU, MEM, DISK usage in single report
 # Version:1.0
-# Created Date: 2019-05-02
-# Modified Date:
-# WebSite: https://server-computer.com
-# Author: Ankam Ravi Kumar
+#Created Date: May 25 13:17:19 EST 2022
+#Modified Date:
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 
 HOSTNAME=$(hostname)
 DATET=$(date "+%Y-%m-%d %H:%M:%S")

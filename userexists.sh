@@ -1,8 +1,9 @@
 #!/bin/bash
 ##Purpose: Check given user Exits Or Not 
-##Date: 27th Oct 2016
-##Author: Ankam Ravi Kumar
-##WebSite: https://arkit.co.in
+#Created Date: Fri May 27 13:17:19 EST 2022
+#Modified Date:
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 
 ##Start
 echo -e "Please Enter User name you want check: \c"

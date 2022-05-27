@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: Until Loop Example for Host Ping
 #Version:1.0
-#Created Date: Mon May 28 22:18:52 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#WebSite: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 echo -e "Please Enter the IP Address to Ping: \c"
 read -r ip

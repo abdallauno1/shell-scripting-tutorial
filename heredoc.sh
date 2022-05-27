@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: Here Document Example
 #Version:1.0
-#Created Date: Tue Jun 12 22:50:23 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#WebSite: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 ftp -n <<- EOF 2> /dev/null
         open ftp.server.com

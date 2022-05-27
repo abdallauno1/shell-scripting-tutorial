@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: For loop example
 #Version:1.0
-#website: https://arkit.co.in
-#Created Date: Wed May 16 19:26:02 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 for server in `cat /scripts/servers`
 do

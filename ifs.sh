@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: Internal Field Seperator
 #Version:1.0
-#Created Date: Wed Jun 13 21:58:18 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#WebSite: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 LINE=`cat /etc/passwd |grep $1`
 IFS=:

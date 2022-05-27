@@ -1,6 +1,6 @@
 #!/bin/bash
 ## Purpose: To Generate Nagios Configuration files within minute of time.
-## Author: Ankam Ravi Kumar
+## Author: Abdalla Mady
 
 mkdir -p /scripts/WinServers
 cat  /scripts/serverlist.txt | while read LINE

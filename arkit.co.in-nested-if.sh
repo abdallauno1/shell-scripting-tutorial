@@ -1,9 +1,10 @@
 #!/bin/bash
 #Purpose: Validate and report Student subject marks
 #Version:1.0
-#Created Date: Wed May 16 19:00:52 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 
 echo -e "Please Enter Maths Marks: \c"

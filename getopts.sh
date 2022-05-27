@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: Getopts Examples working with arguments
 #Version:1.0
-#Created Date: Wed May 30 22:30:51 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-#WebSite: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 
 while getopts :a:b: options; do

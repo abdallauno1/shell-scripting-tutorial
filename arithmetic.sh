@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose:Arthmetic operators using expr command
 #Version:1.0
-#Created Date: Wed May 9 21:47:04 IST 2018
+#Created Date: May 27 2022
 #Modified Date:
-#website: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 echo -e "Enter value: \c"
 read -r a

@@ -4,7 +4,7 @@
 #                                                           #
 # NOME: webserver_ubuntu.sh                                 #
 #                                                           #
-# AUTOR: Amaury B. Souza (amaurybsouza@gmail.com)           #
+# AUTOR: abdalla mady (abdullamady@hotmail.com)           #
 #                                                           #
 # DESCRIÇÃO: O script faz a instalação da stack LAMP        #
 #                                                           #

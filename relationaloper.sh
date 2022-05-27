@@ -1,10 +1,10 @@
 #!/bin/bash
 #Purpose: Relational Operators examples
 #Version:1.0
-#Created Date: Thu May 10 22:43:16 IST 2018
+#Created Date: Fri May 27 13:17:19 EST 2022
 #Modified Date:
-# Website: https://arkit.co.in
-#Author: Ankam Ravi Kumar
+#WebSite: https://abdalla-mady.herokuapp.com/
+#Author: Abdalla Mady
 # START #
 echo -e "Please provide one number: \c"
 read -r h

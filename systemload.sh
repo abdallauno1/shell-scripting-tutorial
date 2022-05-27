@@ -1,9 +1,9 @@
 #!/bin/bash
 ##################################################
 # #
-# Author: Ankam Ravi Kumar #
+# Author: Abdalla Mady #
 # Website: server-computer.com #
-# Date: 23-02-2019 16:59:56 #
+# Date: 23-02-2022 16:59:56 #
 # Purpose: Capture and Store System Load Average #
 # CPU Usage and Memory Usage #
 ##################################################
